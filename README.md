@@ -36,10 +36,9 @@ ALL ACCESSORIES
 - Checks the accessory Location Lookup flags.
 
 ALL SUPER SOULS
-- Adds the latest Super Soul ID list through the known sparse IDs.
-- Checks the primary Super Soul Location Lookup flags.
-- A newly advertised Festival reward may still be unavailable because its real
-  inventory item ID is not yet known.
+- Adds all super souls from built accessory ID list
+- Checks the Super Soul Location Lookup flags.
+- Now includes Shrenron's 6 star super soul. 
 
 ALL SKILLS
 - Enables all existing Super Attack, Ultimate Attack, Evasive, and Awoken records
@@ -49,16 +48,20 @@ ALL SKILLS
 99 ZEN-OH BUTTONS / 99 SUPER MIX CAPSULE Z
 - Changes only the confirmed count byte and preserves the rest of each item record.
 
+99,999 TP MEDALS
+- Adds TP medals, that's all. use on your save again AFTER launching and making a new save if
+  you added all lobby items to your game.
+
 LOBBY ITEMS
 -----------
 ADD LOBBY ITEM AT OWN RISK, WILL WIPE OUT TP MEDALS
 
 Adding all of the lobby items will make you go broke. you will get every aura, vehicle, mascot, 
 including The Power to Overcome, SSJ4 DAIMA, Ultra Supervillain, etc. Whether adding one 
-or all lobby items, the TP medals count drops to -2. Cannot add TP medals manually.
-Will update if there is a fix.
+or all lobby items, the TP medals count drops to -2. Launch the game, grab a new save, and
+set your tp medals to 99K with the editor again.
 
-The GUI requires a second confirmation before applying this option.
+The GUI still requires a second confirmation before applying this option.
 
 DEPENDENCY ERRORS
 -----------------
