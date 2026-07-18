@@ -78,6 +78,6 @@ or embedded distribution.
 SAFETY / COMPATIBILITY
 ----------------------
 - Intended for modern Xenoverse 2 Nintendo Switch savefile1.dat files.
-- Dynamically reads the encrypted body size; it does not use the old fixed size.
+- Dynamically reads the encrypted body size; it does not use the old fixed size; this app should ALWAYS work, even with future game versions.
 - Recalculates the known save checksums and validates the output after writing.
 - Keep multiple backups. Test offline first.
