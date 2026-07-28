@@ -47,22 +47,17 @@ ALL SKILLS
 - Does not unlock debug skills, aka Unknown Skills, as these crash the game immediately.
 
 99 ZEN-OH BUTTONS / 99 SUPER MIX CAPSULE Z
-- Adds 99 of these items
+- Adds 99 of these items. Now adds these items even if not previously owned.
 
 99,999 TP MEDALS
-- Adds TP medals, that's all. use on your save again AFTER launching and making a new save if
-  you added all lobby items to your game.
+- Adds TP medals, that's all.
 
 LOBBY ITEMS
 -----------
-ADD LOBBY ITEM AT OWN RISK, WILL WIPE OUT TP MEDALS
+ADD LOBBY ITEMS
 
-Adding all of the lobby items will make you go broke. you will get every aura, vehicle, mascot, 
-including The Power to Overcome, SSJ4 DAIMA, Ultra Supervillain, etc. Whether adding one 
-or all lobby items, the TP medals count drops to -2. Launch the game, grab a new save, and
-set your tp medals to 99K with the editor again.
-
-The GUI still requires a second confirmation before applying this option.
+Unlocks every aura, vehicle, mascot, including The Power to Overcome, SSJ4 DAIMA, Ultra Supervillain, etc. 
+Future updates will only have space available for 4 more lobby items, which are already included and will unlock if ever there are more.
 
 DEPENDENCY ERRORS
 -----------------
