@@ -18,10 +18,11 @@ You can also double-click the launcher without dragging a file, then use Browse.
 
 PATCH OPTIONS
 -------------
-ALL REGULAR ARTWORK (IDS 1-900)
-- Enables the confirmed regular Artwork ownership bits for IDs 1 through 900.
-- 900 is the tested safe boundary for this Switch save layout.
-- gonna update this but it looks like artworks above 900 are in a different memory location.
+ALL ARTWORK
+
+- Enables all 1,024 bits in the original Artwork ownership/special-artwork area.
+- Enables all 2,304 bits in the mapped expansion ownership area.
+- Does NOT change the neighboring active/loading-screen on/off toggle block.
 
 ALL CLOTHING
 - Adds the latest Tops, Bottoms, Gloves, and Shoes ID lists.
@@ -46,7 +47,7 @@ ALL SKILLS
 - Does not unlock debug skills, aka Unknown Skills, as these crash the game immediately.
 
 99 ZEN-OH BUTTONS / 99 SUPER MIX CAPSULE Z
-- Changes only the confirmed count byte and preserves the rest of each item record.
+- Adds 99 of these items
 
 99,999 TP MEDALS
 - Adds TP medals, that's all. use on your save again AFTER launching and making a new save if
@@ -78,6 +79,6 @@ or embedded distribution.
 SAFETY / COMPATIBILITY
 ----------------------
 - Intended for modern Xenoverse 2 Nintendo Switch savefile1.dat files.
-- Dynamically reads the encrypted body size; it does not use the old fixed size; this app should ALWAYS work, even with future game versions.
+- Dynamically reads the encrypted body size; it does not use the old fixed size.
 - Recalculates the known save checksums and validates the output after writing.
 - Keep multiple backups. Test offline first.
