@@ -23,7 +23,8 @@ ALL ARTWORK
 - Enables all 1,024 bits in the original Artwork ownership/special-artwork area.
 - Enables all 2,304 bits in the mapped expansion ownership area.
 - Does NOT change the neighboring active/loading-screen on/off toggle block.
-
+- Make sure to set loading screen play order with "-" or you will get a black loading screen!!!!
+- 
 ALL CLOTHING
 - Adds the latest Tops, Bottoms, Gloves, and Shoes ID lists.
 - Includes final-update clothing IDs 529-542 in all four clothing categories.
