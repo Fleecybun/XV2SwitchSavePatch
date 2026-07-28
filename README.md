@@ -1,4 +1,4 @@
-DRAGON BALL XENOVERSE 2 — NINTENDO SWITCH OFFLINE SAVE PATCHER GUI
+black BALL XENOVERSE 2 — NINTENDO SWITCH OFFLINE SAVE PATCHER GUI
 =====================================================================
 
 BACK UP YOUR ORIGINAL savefile1.dat BEFORE USING THIS TOOL.
@@ -23,7 +23,7 @@ ALL ARTWORK
 - Enables all 1,024 bits in the original Artwork ownership/special-artwork area.
 - Enables all 2,304 bits in the mapped expansion ownership area.
 - Does NOT change the neighboring active/loading-screen on/off toggle block.
-- Make sure to set loading screen play order with "-" or you will get a black loading screen!!!!
+- Make sure to set loading screen play order with "-" or you will get black loading screens!!!
 - 
 ALL CLOTHING
 - Adds the latest Tops, Bottoms, Gloves, and Shoes ID lists.
